@@ -16,17 +16,11 @@ An API Key will be needed to query Subgraphs published to The Graph Network. Use
 7. API Key Details page will open
 8. Copy the key value. Will be a 32-digit key.
 
-
-An API Key will be needed to query Subgraphs published to 
-
-- [NodeJS CLI](./examples/nodejs-cli/)
-- [Python CLI](./examples/python-cli)
-
-
-
 ## Additional Resources
 
 
 - [Managing API Keys](https://thegraph.com/docs/en/querying/managing-api-keys/)
 - [Querying from an app](https://thegraph.com/docs/en/querying/querying-from-an-application/)
 - [Querying Best Practices](https://thegraph.com/docs/en/querying/querying-best-practices/)
+
+It will be updated in the future.
